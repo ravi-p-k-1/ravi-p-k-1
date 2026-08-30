@@ -1,60 +1,44 @@
-<div align="center">
+## Hi there 👋, I am Ravi Kakadia
+### [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white&link=https://ravi-p-k-1.github.io)](https://ravi-p-k-1.github.io) [![GitHub Badge](https://img.shields.io/badge/-Repositories-181717?style=flat&logo=github&logoColor=white&link=https://github.com/ravi-p-k-1?tab=repositories)](https://github.com/ravi-p-k-1?tab=repositories) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r-kakadia/)](https://www.linkedin.com/in/r-kakadia/)
 
-# Hi, I'm Ravi Kakadia 👋
-
-### Full-stack developer building intelligent, data-driven applications
-
-[Portfolio](https://ravi-p-k-1.github.io) · [Projects](https://github.com/ravi-p-k-1?tab=repositories)
-
-</div>
-
-## About me
-
-I enjoy turning real-world problems into practical software—from AI-assisted economic dashboards and IoT plant monitoring to traffic simulations and interactive web experiences. My projects span frontend development, backend APIs, data pipelines, machine learning, and cloud deployment.
-
-- 🌱 Building full-stack products with React, TypeScript, Node.js, and Python
+### 😛 About Me
+- 💻 Full-stack developer building intelligent, data-driven applications
+- 🌱 Working with React, TypeScript, Node.js, and Python across the stack
 - 🧠 Interested in AI/ML, retrieval systems, data visualization, and applied analytics
 - 🔌 Experienced with REST APIs, PostgreSQL, pgvector, Docker, and IoT workflows
 - 🤝 Comfortable collaborating through feature tickets, pull requests, CI, and team-owned codebases
 
-## Featured projects
+### 🎉 Projects
+- <a href="https://github.com/ravi-p-k-1/TravelGlow">TravelGlow</a> — travel-aware skincare planner built for the YouCam Devpost hackathon; combines YouCam skin analysis, destination weather, a deterministic recommendation engine, and an optional Gemini explanation layer into a personalized Travel Skin Forecast (React, Express, PostgreSQL, Docker)
+- <a href="https://github.com/ravi-p-k-1/InsightIQ">InsightIQ</a> — AI-assisted economic insight dashboard turning natural-language questions into charts and plain-English explanations, backed by real FRED data (React, Express, PostgreSQL/pgvector, Gemini)
+- <a href="https://releasetrain.io/">ReleaseTrain</a> — open-source release-intelligence platform; built the Reddit NLP pipeline, training a classifier on 2,600+ labeled posts to identify software-update discussions
+- <a href="https://github.com/ravi-p-k-1/Sproutly">Sproutly</a> — full-stack IoT plant-care system connecting Raspberry Pi soil-moisture sensors to a weather-aware web dashboard (React, TypeScript, FastAPI, Azure)
+- <a href="https://github.com/ravi-p-k-1/Emergency-Traffic-Priority-System">Emergency Traffic Priority System</a> — SUMO traffic simulation detecting emergency vehicles and applying signal-control strategies, with reinforcement-learning experiments via TraCI and TensorFlow/Keras
 
-### [InsightIQ](https://github.com/ravi-p-k-1/InsightIQ)
+### 📚 Actively Learning
+- Retrieval-augmented generation and semantic search patterns for production apps
+- Applied MLOps practices for shipping ML features reliably
+- Cloud deployment and infrastructure patterns beyond a single provider
 
-An AI-assisted economic insight dashboard that translates natural-language questions into charts and plain-English explanations backed by real FRED data. It combines a React frontend, Express backend, local embedding model, PostgreSQL/pgvector semantic search, and Gemini-generated analysis.
+### 🛠️ Skills
+*(badges within each row are roughly ordered by proficiency, strongest first)*
 
-`React` `Node.js` `Express` `PostgreSQL` `pgvector` `Gemini` `FRED API` `Docker`
+| **Category** | **Technologies** |
+|---|---|
+| Languages | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logoColor=black&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logoColor=white&logo=typescript) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logoColor=white&logo=css) ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logoColor=white&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logoColor=white&logo=openjdk) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=white&logo=python) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logoColor=white&logo=php) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logoColor=white&logo=sass) |
+| Frameworks & Runtime | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logoColor=black&logo=react) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logoColor=white&logo=angular) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logoColor=white&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logoColor=white&logo=express) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logoColor=white&logo=fastapi) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=white&logo=nextdotjs) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logoColor=white&logo=astro) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logoColor=white&logo=springboot) |
+| Libraries & ORM | ![Highcharts](https://img.shields.io/badge/-Highcharts-8087E8?style=flat&logoColor=white) ![AG Grid](https://img.shields.io/badge/-AG%20Grid-E4211C?style=flat&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logoColor=white&logo=redux) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logoColor=white&logo=graphql) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logoColor=white&logo=bootstrap) ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logoColor=white&logo=mui) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logoColor=white&logo=sequelize) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logoColor=white&logo=jquery) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logoColor=white&logo=langchain) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logoColor=white&logo=pydantic) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logoColor=white&logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logoColor=white&logo=tensorflow) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logoColor=white&logo=hibernate) |
+| Databases & Vector Search | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logoColor=white&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logoColor=white&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logoColor=white&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logoColor=white&logo=sqlite) ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat&logoColor=white) |
+| CMS, Hosting & Web | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logoColor=white&logo=wordpress) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-6e6e6e?style=flat&logoColor=white) ![Website Migration](https://img.shields.io/badge/-Website%20Migration-6e6e6e?style=flat&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logoColor=white&logo=figma) ![Elementor](https://img.shields.io/badge/-Elementor-D42F42?style=flat&logoColor=white&logo=elementor) ![WP Engine](https://img.shields.io/badge/-WP%20Engine-0ECAD4?style=flat&logoColor=white&logo=wpengine) ![Directus](https://img.shields.io/badge/-Directus-6644FF?style=flat&logoColor=white&logo=directus) |
+| AI & Machine Learning | ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logoColor=white&logo=googlegemini) ![Anthropic API](https://img.shields.io/badge/-Anthropic%20API-191919?style=flat&logoColor=white&logo=anthropic) ![Retrieval-Augmented Generation](https://img.shields.io/badge/-RAG-6e6e6e?style=flat&logoColor=white) ![Embeddings](https://img.shields.io/badge/-Embeddings-6e6e6e?style=flat&logoColor=white) ![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-6e6e6e?style=flat&logoColor=white) ![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-6e6e6e?style=flat&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logoColor=black&logo=huggingface) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6e6e6e?style=flat&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-6e6e6e?style=flat&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6e6e6e?style=flat&logoColor=white) ![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-6e6e6e?style=flat&logoColor=white) ![Voyage AI](https://img.shields.io/badge/-Voyage%20AI-6e6e6e?style=flat&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-6e6e6e?style=flat&logoColor=white) |
+| Tools & DevOps | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logoColor=white&logo=git) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logoColor=black&logo=firebase) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logoColor=white&logo=githubactions) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=white&logo=docker) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logoColor=white&logo=jira) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logoColor=white) ![Google Cloud Functions](https://img.shields.io/badge/-Google%20Cloud%20Functions-4285F4?style=flat&logoColor=white&logo=googlecloud) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logoColor=white&logo=vercel) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logoColor=white&logo=gitlab) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logoColor=black&logo=webpack) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logoColor=white&logo=vite) |
+| AI Developer Tools | ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logoColor=white&logo=githubcopilot) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logoColor=white&logo=claude) ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logoColor=white&logo=claude) |
+| Agile Methodologies | ![Scrum](https://img.shields.io/badge/-Scrum-6e6e6e?style=flat&logoColor=white) ![Kanban](https://img.shields.io/badge/-Kanban-6e6e6e?style=flat&logoColor=white) |
 
-### [ReleaseTrain](https://releasetrain.io/)
+### ☎️ How to Reach Me
+- Feel free to send me a message on <a href="https://www.linkedin.com/in/r-kakadia/">LinkedIn</a>
+- Check out my <a href="https://ravi-p-k-1.github.io">portfolio</a> or explore my <a href="https://github.com/ravi-p-k-1?tab=repositories">repositories</a>
 
-An open-source release-intelligence platform for tracking software releases, CVEs, and community signals. I worked on its Reddit NLP pipeline, training a classifier on more than 2,600 labeled posts to identify software-update discussions and enrich new posts with predicted labels and confidence scores. [Explore the live platform](https://releasetrain.io/).
+<br>
 
-`Python` `scikit-learn` `spaCy` `Pandas` `TF-IDF` `Logistic Regression` `NLP`
-
-### [Sproutly](https://github.com/ravi-p-k-1/Sproutly)
-
-A full-stack IoT plant-care system that connects Raspberry Pi soil-moisture sensors to a weather-aware web dashboard. As the frontend developer on a four-person team, I built core React/TypeScript views, reusable components, authentication flows, API integrations, and sensor refresh behavior.
-
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Raspberry Pi` `Docker` `Azure`
-
-### [Emergency Traffic Priority System](https://github.com/ravi-p-k-1/Emergency-Traffic-Priority-System)
-
-A SUMO traffic simulation that detects emergency vehicles and applies lane and signal-control strategies to improve response times, including reinforcement-learning experiments using TraCI and TensorFlow/Keras.
-
-`Python` `SUMO` `TraCI` `TensorFlow` `Keras` `NumPy`
-
-## Technologies
-
-- **Languages:** JavaScript, TypeScript, Python, SQL
-- **Frontend:** React, Vite, HTML, CSS, Recharts
-- **Backend & data:** Node.js, Express, FastAPI, PostgreSQL, pgvector, SQLite, REST APIs
-- **AI/ML:** TensorFlow, Keras, scikit-learn, spaCy, NLP, embeddings, semantic search, RAG-style pipelines, Gemini
-- **Tools & platforms:** Git, GitHub Actions, Docker, Azure, Raspberry Pi, Eclipse SUMO
-
----
-
-<div align="center">
-
-Thanks for visiting—feel free to explore my repositories and follow along with what I build next.
-
-</div>
+![GitHub Views](https://komarev.com/ghpvc/?username=ravi-p-k-1)
